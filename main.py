@@ -81,7 +81,7 @@ async def startprivate(client, message):
             [
                 InlineKeyboardButton("CHANNEL", url="https://t.me/BaseSpace01"),
                 InlineKeyboardButton(
-                    "SUPPORT GROUP", url="https://t.me/bot1log"
+                    "SUPPORT", url="https://twitter.com/messages/compose?recipient_id=1838594063273992192"
                 ),
             ]
         ]
