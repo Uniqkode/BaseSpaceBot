@@ -42,7 +42,7 @@ async def welcome_bot(client: Client, chat_member_update: ChatMemberUpdated):
         welcome_text = "Hello, I'm a Based bot that will send latest events happening on BaseSpace to you. Made by @BaseSpace01."
         welcome_button = InlineKeyboardMarkup(
             [[
-                InlineKeyboardButton("Support Group", url="https://t.me/bot1log"),
+                InlineKeyboardButton("Support Group", url="https://twitter.com/messages/compose?recipient_id=1838594063273992192"),
                 InlineKeyboardButton("Channel", url="https://t.me/BaseSpace01")
             ]]
         )

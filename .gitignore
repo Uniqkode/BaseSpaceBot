@@ -1,5 +1,6 @@
 venv
-bot.session
+baseBot.session
+baseBot.session-journal
 .idea
 __pycache__
 .env
